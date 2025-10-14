@@ -13,3 +13,10 @@ Maximal Cliques
 Split Graphs\
 Matches and Covering\
 Hopcroft–Karp algorithm
+
+
+## Exercise 3:
+
+Directed Graphs\
+Small world networks\
+Bipartite Graph Generators

@@ -11,4 +11,6 @@ dependencies = [
     "networkx>=3.5",
     "notebook>=7.4.7",
     "numpy>=2.3.3",
+    "osmnx>=2.0.6",
+    "scipy>=1.16.2",
 ]
