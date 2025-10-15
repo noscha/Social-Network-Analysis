@@ -20,3 +20,9 @@ Hopcroft–Karp algorithm
 Directed Graphs\
 Small world networks\
 Bipartite Graph Generators
+
+
+## Exercise 4:
+
+Roles and Cohesion\
+k- Core
