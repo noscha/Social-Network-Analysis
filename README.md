@@ -26,3 +26,15 @@ Bipartite Graph Generators
 
 Roles and Cohesion\
 k- Core
+
+
+## Exercise 5:
+
+Random Graphs\
+Density and Entropy under rewiring\
+ALCC & ASP under rewiring\
+Multi relational graphs
+
+
+## Exercise 6:
+
