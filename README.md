@@ -38,3 +38,4 @@ Multi relational graphs
 
 ## Exercise 6:
 
+Knowledge Graphs
